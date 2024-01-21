@@ -61,8 +61,5 @@
 </div>
 
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ertashatc/count.svg?"  />
-</div>
 
 ###
